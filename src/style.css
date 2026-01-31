@@ -164,7 +164,7 @@ select {
 
 .reserved { background: #ef4444; }
 .in-progress { background: #f97316; }
-.done { background: #22c55e; }
+.finished { background: #22c55e; }
 
 .fade-in {
   animation: fadeIn 0.6s ease;
