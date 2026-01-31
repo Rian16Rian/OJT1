@@ -150,7 +150,6 @@ select {
 
 .icon-btn.edit { color: #1abee7; }
 .icon-btn.progress { color: #f97316; }
-.icon-btn.done { color: #22c55e; }
 .icon-btn.delete,
 .icon-btn.cancel { color: #ef4444; }
 
@@ -164,7 +163,8 @@ select {
 
 .reserved { background: #ef4444; }
 .in-progress { background: #f97316; }
-.finished { background: #22c55e; }
+.done { background: #22c55e; }
+.finished {color: #22c55e; }
 
 .fade-in {
   animation: fadeIn 0.6s ease;
