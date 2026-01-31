@@ -1,0 +1,5 @@
+AMAR, please add the dependencies for this
+
+npm install
+npm install @supabase/supabase-js
+npm install lucide-vue-next
